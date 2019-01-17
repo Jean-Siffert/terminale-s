@@ -1,5 +1,4 @@
 from math import *
-from pprint import pprint
 from os import system
 system('cls')
 
