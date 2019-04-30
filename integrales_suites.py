@@ -1,4 +1,4 @@
-from math import *
+from math import exp
 from os import system
 system('cls')
 
